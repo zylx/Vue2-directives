@@ -1,0 +1,24 @@
+{
+  "name": "vue2-directives",
+  "version": "1.0.0",
+  "description": "Common Vue directives.",
+  "main": "./directives/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zylx/Vue2-directives.git"
+  },
+  "keywords": [
+    "Vue",
+    "Vue-directive",
+    "directive"
+  ],
+  "author": "hufi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zylx/Vue2-directives/issues"
+  },
+  "homepage": "https://github.com/zylx/Vue2-directives#readme"
+}

@@ -1,2 +1,2 @@
-# Vue-2.x-components
-Vue components commonly used in projects
+# Vue-2.x-directives
+Common Vue directives.
